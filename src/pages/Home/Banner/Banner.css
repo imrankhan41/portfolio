@@ -1,0 +1,14 @@
+.my-img{
+    height: 400px;
+    width:400px;
+    border-radius: 50%;
+}
+.banner{
+    margin-top: 75px;
+}
+i  {
+    font-size: 45px;
+    margin-right: 25px;
+    color: red;
+   
+}
