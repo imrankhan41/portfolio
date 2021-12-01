@@ -5,8 +5,10 @@ import "./Banner.css"
 const Banner = () => {
     return (
         <div className="row banner">
+           
             <div className="col-lg-6 col-md-6 col-sm-12 col-12 text-white p-5">
                  <div className="ms-5 text-start">
+                     
                  <h2>Cheers, I am Amran Miah</h2>
                 <h4>If you searching for dynamic,high user interface <span className="text-danger">website developer </span> , you are in right place. I have experince working with React JS, JavaScript, React Bootstrap ,Material UI for <span className="text-danger">Front End Development</span> and with MongoDb, Node JS for  <span className="text-danger">Back End Development</span></h4>
 
@@ -28,7 +30,7 @@ const Banner = () => {
                
             </div>
             <div className="col-lg-6 col-md-6 col-sm-12 col-12">
-                <img className="my-img" src ={banner}/>
+                <img className="my-img p-5" src ={banner}/>
             </div>
         </div>
     );

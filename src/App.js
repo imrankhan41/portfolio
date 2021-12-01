@@ -9,6 +9,7 @@ import About from './pages/Home/About/About';
 import Projects from './pages/Home/Projects/Project/Projects';
 import ContactMe from './pages/ContactMe/ContactMe';
 import Blogs from './pages/Blogs/Blogs';
+import Footer from './pages/Footer/Footer';
 
 function App() {
   return (
@@ -36,6 +37,7 @@ function App() {
         <Blogs></Blogs>
         </Route>
       </Switch>
+      <Footer></Footer>
       </BrowserRouter>
     </div>
   );

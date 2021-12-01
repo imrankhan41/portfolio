@@ -21,6 +21,7 @@ const About = () => {
                 </div>
 
             </div>
+            <hr className="text-danger mx-auto  col-lg-4 mt-3"/>
             <div className="row">
                <div className="col-lg-6 col-md-6 col-sm-12 col-12 p-5">
                    <br />
@@ -30,6 +31,7 @@ const About = () => {
                <i class="fas fa-volleyball-ball"></i>
                <i class="fas fa-biking"></i>
                </div>
+               
                <div className="col-lg-6 col-md-6 col-sm-12 col-12 p-5">
                    <h2 className="text-white mt-4">Look What I Can Do</h2>
                    <div className="row text-white text-start">
