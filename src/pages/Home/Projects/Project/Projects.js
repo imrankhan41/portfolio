@@ -42,7 +42,7 @@ const Projects = () => {
         </ul>
         <Switch>
         <Route exact path={`${path}`}>
-                        <h1>Welcome to DashBoard</h1>
+                        <h2>Welcome to My Project World</h2>
         </Route>
         <Route  path={`${path}/all`}>
           <All></All>
