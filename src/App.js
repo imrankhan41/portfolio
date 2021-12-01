@@ -8,6 +8,7 @@ import Header from './pages/Home/Header/Header';
 import About from './pages/Home/About/About';
 import Projects from './pages/Home/Projects/Project/Projects';
 import ContactMe from './pages/ContactMe/ContactMe';
+import Blogs from './pages/Blogs/Blogs';
 
 function App() {
   return (
@@ -30,6 +31,9 @@ function App() {
         </Route>
         <Route path="/contacts">
         <ContactMe></ContactMe>
+        </Route>
+        <Route path="/blogs">
+        <Blogs></Blogs>
         </Route>
       </Switch>
       </BrowserRouter>
