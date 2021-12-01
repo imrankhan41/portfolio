@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Bootstrap = () => {
+const All = () => {
     return (
         <div>
-            
+            <h2>gdfgf</h2>
         </div>
     );
 };
 
-export default Bootstrap;
+export default All;

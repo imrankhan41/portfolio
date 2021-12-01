@@ -6,7 +6,7 @@ import { Navbar } from 'react-bootstrap';
 import { BrowserRouter,Switch,Route } from 'react-router-dom';
 import Header from './pages/Home/Header/Header';
 import About from './pages/Home/About/About';
-import Projects from './pages/Home/Projects/Projects';
+import Projects from './pages/Home/Projects/Project/Projects';
 
 function App() {
   return (
