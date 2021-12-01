@@ -36,6 +36,10 @@ const Footer = () => {
                   <a className="link-footer text-muted" href="https://twitter.com/imrantexf69" target="_blank" rel="noopener noreferrer">Twitter</a>
             </div>
         </div>
+        <div className="row">
+        <hr className="text-danger mx-auto  mt-3"/>
+         <p className="text-white"> © 2021 - <span className="text-danger">Amran Miah</span> | Designed By Me  </p>
+        </div>
         </div>
     );
 };
