@@ -7,6 +7,7 @@ import { BrowserRouter,Switch,Route } from 'react-router-dom';
 import Header from './pages/Home/Header/Header';
 import About from './pages/Home/About/About';
 import Projects from './pages/Home/Projects/Project/Projects';
+import ContactMe from './pages/ContactMe/ContactMe';
 
 function App() {
   return (
@@ -26,6 +27,9 @@ function App() {
         </Route>
         <Route path="/projects">
         <Projects></Projects>
+        </Route>
+        <Route path="/contacts">
+        <ContactMe></ContactMe>
         </Route>
       </Switch>
       </BrowserRouter>
