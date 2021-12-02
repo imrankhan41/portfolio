@@ -2,8 +2,8 @@ import React from 'react';
 
 const CompleteProject = () => {
     return (
-        <div>
-            <h2>Complete Projects</h2>
+        <div className="vh-100">
+            <h2>Complete Projects are coming very soon.....</h2>
         </div>
     );
 };
