@@ -6,3 +6,6 @@
 .images{
     display: flex;
 }
+.title{
+    text-decoration: none;
+}

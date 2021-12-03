@@ -20,21 +20,21 @@ const FrontProjects = () => {
                      <div className="card">
                          <img className="img-fluid" src={niche} alt="" />
                          <hr />
-                         <h4 >Niche Product</h4>
+                         <h4 > <a className="title text-danger" href="/projects">Niche Product</a> </h4>
                      </div>
                  </div>
                  <div className="col-lg-4 col-md-3 col-sm-12 col-12">
                      <div className="card">
                          <img className="img-fluid" src={food} alt="" />
                          <hr />
-                         <h4 >Food Delivery</h4>
+                         <h4 > <a className="title text-danger" href="/projects">Food Delivery</a> </h4>
                      </div>
                  </div>
                  <div className="col-lg-4 col-md-3 col-sm-12 col-12">
                      <div className="card">
                          <img className="img-fluid" src={health} alt="" />
                          <hr />
-                         <h4 >Health Care</h4>
+                         <h4 ><a className="title text-danger" href="/projects">Health Care</a> </h4>
                      </div>
                  </div>
              </div>
@@ -43,21 +43,21 @@ const FrontProjects = () => {
                      <div className="card">
                          <img className="img-fluid" src={mac} alt="" />
                          <hr />
-                         <h4 >Mac Book </h4>
+                         <h4 ><a className="title text-danger" href="/projects">Mac Book </a></h4>
                      </div>
                  </div>
                  <div className="col-lg-4 col-md-3 col-sm-12 col-12">
                      <div className="card">
                          <img className="img-fluid" src={football} alt="" />
                          <hr />
-                         <h4 >Football Website</h4>
+                         <h4 ><a className="title text-danger" href="/projects">Football Website</a> </h4>
                      </div>
                  </div>
                  <div className="col-lg-4 col-md-3 col-sm-12 col-12">
                      <div className="card">
                          <img className="img-fluid" src={honda} alt="" />
                          <hr />
-                         <h4 >Honda CBR</h4>
+                         <h4 ><a className="title text-danger" href="/projects">Honda CBR</a> </h4>
                      </div>
                  </div>
              </div>
@@ -66,21 +66,21 @@ const FrontProjects = () => {
                      <div className="card">
                          <img className="img-fluid" src={nike} alt="" />
                          <hr />
-                         <h4 >Nike E-Commerce </h4>
+                         <h4 ><a className="title text-danger" href="/projects">Nike E-Commerce </a> </h4>
                      </div>
                  </div>
                  <div className="col-lg-4 col-md-3 col-sm-12 col-12">
                      <div className="card">
                          <img className="img-fluid" src={panda} alt="" />
                          <hr />
-                         <h4 >Panda E-Commerce</h4>
+                         <h4 ><a className="title text-danger" href="/projects">Panda E-Commerce</a> </h4>
                      </div>
                  </div>
                  <div className="col-lg-4 col-md-3 col-sm-12 col-12">
                      <div className="card">
                          <img className="img-fluid" src={penguin} alt="" />
                          <hr />
-                         <h4 >Penguin E-Commerce</h4>
+                         <h4 ><a className="title text-danger" href="/projects">Penguin E-Commerce</a> </h4>
                      </div>
                  </div>
              </div>
