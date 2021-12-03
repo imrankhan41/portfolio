@@ -7,8 +7,9 @@ const Services = () => {
     return (
         <div className="mt-5 container ">
             <hr className="text-danger mx-auto  col-lg-5"/>
+           
+            <h2 className="text-danger ">Services</h2>
             <p className="text-white">What i will do for you</p>
-            <h2 className="text-danger mb-5">Services</h2>
             <div className="row">
                 
                 <div className="col-lg-3 col-md-4 col-sm-12 col-12 cards text-white p-2 ">

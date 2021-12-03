@@ -1,0 +1,8 @@
+.card{
+    border: 1px solid red;
+    color:red;
+    margin-top: 10px;
+}
+.images{
+    display: flex;
+}

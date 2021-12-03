@@ -43,6 +43,7 @@ const Projects = () => {
         <Switch>
         <Route exact path={`${path}`}>
         <h2>Welcome to My Project World</h2>
+        <All></All>
         </Route>
         <Route  path={`${path}/all`}>
           <All></All>
